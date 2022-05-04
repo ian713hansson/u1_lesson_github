@@ -27,7 +27,7 @@ Pronounced *re·pos·i·to·ry*, but called *repo* for short.
 
 It’s the place where your code is stored.
 
-![Branching](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fohmy.disney.com%2Fwp-content%2Fuploads%2F2015%2F07%2FWinnie_the_Pooh_Climbs_A_Tree.gif&f=1&nofb=1)
+![Branching](https://thumbs.gfycat.com/DarkWellmadeCony-size_restricted.gif)
 
 ### Branching
 
